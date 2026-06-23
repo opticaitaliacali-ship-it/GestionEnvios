@@ -164,7 +164,7 @@ p{
                 <p>Ingresar productos con código, proveedor, fecha, cantidad y precio.</p>
             </a>
 
-            <a href="consulta.php" class="card-btn consulta">
+            <a href="consultar.php" class="card-btn consulta">
                 <h2>🔍 Consultar Registros</h2>
                 <br>
                 <p>Buscar mercancía por código, nombre o proveedor.</p>
