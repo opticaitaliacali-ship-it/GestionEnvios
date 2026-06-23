@@ -16,7 +16,7 @@
 <table>
     <tr>
         <th>Código</th>
-        <th>Descripción</th>
+        <th>Descripión</th>
         <th>Destino</th>
         <th>Acciones</th>
     </tr>
