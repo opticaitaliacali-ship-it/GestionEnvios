@@ -1,6 +1,6 @@
 <?php
 
-require_once "includes/conexion.php";
+require_once "conexion.php";
 
 $codigo = $_POST['codigo'];
 $nombre = $_POST['nombre'];
